@@ -1,6 +1,6 @@
 
 
-                                                                    Calculadora - Rust
+                                                      Calculadora - Rust
 
 
 Crie uma estrutura de dados chamada "Operation" que contenha quatro variantes: "Addition", "Subtraction", "Multiplication" e "Division", cada um contendo dois campos do tipo "i32".
